@@ -1,0 +1,58 @@
+2021-08-14 20:52:39,684 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] Starting ECommerceAdminPortalApplication using Java 11.0.9 on DESKTOP-0DBC3O7 with PID 15004 (E:\Spring-Mvc\E-Commerce-Admin-Portal\target\classes started by obula in E:\Spring-Mvc\E-Commerce-Admin-Portal)
+2021-08-14 20:52:39,687 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-14 20:52:39,758 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-14 20:52:39,758 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-14 20:52:40,646 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-14 20:52:40,735 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 79 ms. Found 1 JPA repository interfaces.
+2021-08-14 20:52:41,413 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8081 (http)
+2021-08-14 20:52:41,435 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2021-08-14 20:52:41,436 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-08-14 20:52:41,436 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-14 20:52:41,591 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-08-14 20:52:41,591 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1831 ms
+2021-08-14 20:52:41,817 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-14 20:52:41,865 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-14 20:52:41,981 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-14 20:52:42,109 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-08-14 20:52:43,443 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-08-14 20:52:43,454 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-08-14 20:52:46,310 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-14 20:52:46,319 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-14 20:52:46,655 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-08-14 20:52:46,998 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-08-14 20:52:47,017 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2021-08-14 20:52:47,048 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8081 (http) with context path ''
+2021-08-14 20:52:47,058 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] Started ECommerceAdminPortalApplication in 7.944 seconds (JVM running for 9.918)
+2021-08-14 20:53:50,234 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(4)-127.0.0.1] Application shutdown requested.
+2021-08-14 20:53:50,512 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(4)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-14 20:53:50,526 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(4)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-08-14 20:53:50,543 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(4)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2021-08-14 20:54:02,210 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] Starting ECommerceAdminPortalApplication using Java 11.0.9 on DESKTOP-0DBC3O7 with PID 13364 (E:\Spring-Mvc\E-Commerce-Admin-Portal\target\classes started by obula in E:\Spring-Mvc\E-Commerce-Admin-Portal)
+2021-08-14 20:54:02,213 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-08-14 20:54:02,295 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-14 20:54:02,295 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-14 20:54:03,033 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-14 20:54:03,089 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 47 ms. Found 1 JPA repository interfaces.
+2021-08-14 20:54:03,636 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8081 (http)
+2021-08-14 20:54:03,644 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2021-08-14 20:54:03,645 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-08-14 20:54:03,645 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-14 20:54:03,812 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-08-14 20:54:03,812 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1516 ms
+2021-08-14 20:54:04,047 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-14 20:54:04,105 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-14 20:54:04,245 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-14 20:54:04,352 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-08-14 20:54:04,921 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-08-14 20:54:04,945 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-08-14 20:54:05,990 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-14 20:54:06,002 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-14 20:54:06,433 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-08-14 20:54:06,750 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-08-14 20:54:06,771 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2021-08-14 20:54:06,792 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8081 (http) with context path ''
+2021-08-14 20:54:06,804 INFO com.ecommerce.admin.ECommerceAdminPortalApplication [restartedMain] Started ECommerceAdminPortalApplication in 5.02 seconds (JVM running for 6.334)
+2021-08-14 20:54:44,396 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(3)-127.0.0.1] Application shutdown requested.
+2021-08-14 20:54:44,712 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(3)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-14 20:54:44,716 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(3)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-08-14 20:54:44,733 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(3)-127.0.0.1] HikariPool-1 - Shutdown completed.
